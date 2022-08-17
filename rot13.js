@@ -50,6 +50,3 @@ function rot13(string) {
   }
   return result;
 }
-console.log(
-  rot13(rot13(rot13("Teachers open the door, but you must enter by yourself.")))
-);
